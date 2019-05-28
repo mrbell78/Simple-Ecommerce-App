@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756020512543",
+    "firebase_url": "https://amolnama-c88e0.firebaseio.com",
+    "project_id": "amolnama-c88e0",
+    "storage_bucket": "amolnama-c88e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756020512543:android:c800c76d784f17f2",
+        "android_client_info": {
+          "package_name": "com.mrbell.citycomerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756020512543-00fsdebhvigvn5bgijae0tk1dmq8dbha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrbell.citycomerce",
+            "certificate_hash": "bc3850cef859bc7107fe8fd632b1d348af59b003"
+          }
+        },
+        {
+          "client_id": "756020512543-fa9fct53g7e21187ivmsqudvl1pn364l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBka2-Ezqi4w81m50KkMxoake1hMJ7X92Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756020512543-fa9fct53g7e21187ivmsqudvl1pn364l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
